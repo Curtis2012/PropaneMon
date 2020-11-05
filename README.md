@@ -1,3 +1,3 @@
-# PropaneTankGauge
+# PropaneMon
 
 Propane tank level monitor
