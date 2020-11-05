@@ -1,0 +1,22 @@
+{
+	"site": {
+		"sitename": "CSC/HOMEPA",
+		"timezone": -5,
+		"dst": false,
+		"network": true,
+		"pssid": "COWIFI151420636/0-EXT",
+		"ppwd": "sail2012",
+		"usealt": false,
+		"altssid": "Bodega",
+		"altpwd": "Sail2012",
+		"mqtt_topic_data": "csc/homepa/tankmon_data",
+		"mqtt_topic_ctrl": "csc/homepa/tankmon_ctrl",
+		"mqtt_uid": "uid",
+		"mqtt_pwd": "pwd",
+		"debug": true,
+		"empericalscalefactor": -23680.00, 
+		"sleeptimeabovefloor": 7200,
+		"sleeptimefloor": 15,
+		"sleeptimebelowfloor": 1800
+	}
+}
