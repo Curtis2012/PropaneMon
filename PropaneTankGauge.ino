@@ -1,7 +1,8 @@
 /*
 
    2020-06-07 C. Collins created. Derived code from several sources including SparkFuns HX711 breakout example code
-   2020-09-26 C. Collins ported to AdaFruit Huzzah Feather ESP8266 due to sleep problems with cheap NodeMCU's
+   2020-09-26 C. Collins, ported to AdaFruit Huzzah Feather ESP8266 due to sleep problems with cheap NodeMCU's
+   2020-11-05 C. Collins, moved to github
 
   Todo:
 
