@@ -5,9 +5,6 @@
 
   Todo:
 
-  - Add update delay "floor" to further save battery life if tank level is above a given % full then update on a configurable longer time delay (like 30 min),
-  if below the floor then update on a configurable shorter delay like 5 min. Example: floor = 25%, will update ever 5 min when below 25%
-
 */
 
 ADC_MODE(ADC_VCC);
