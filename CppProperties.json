@@ -25,6 +25,7 @@
         "${projectRoot}..\\..\\..\\..\\AppData\\Local\\arduino15\\packages\\esp8266\\hardware\\esp8266\\2.7.4\\tools\\sdk\\include",
         "${projectRoot}..\\..\\..\\..\\AppData\\Local\\arduino15\\packages\\esp8266\\hardware\\esp8266\\2.7.4\\tools\\sdk\\lwip2\\include",
         "${projectRoot}..\\..\\..\\..\\AppData\\Local\\arduino15\\packages\\esp8266\\hardware\\esp8266\\2.7.4\\tools\\sdk\\libc\\xtensa-lx106-elf\\include",
+        "${projectRoot}..\\..\\..\\..\\DOCUME~1\\Arduino\\SKETCH~1\\PROPAN~2",
         "${projectRoot}..\\..\\..\\..\\AppData\\Local\\arduino15\\packages\\esp8266\\tools\\xtensa-lx106-elf-gcc\\2.5.0-4-b40a506\\xtensa-lx106-elf\\include\\c++\\4.8.2",
         "${projectRoot}..\\..\\..\\..\\AppData\\Local\\arduino15\\packages\\esp8266\\tools\\xtensa-lx106-elf-gcc\\2.5.0-4-b40a506\\xtensa-lx106-elf\\include\\c++\\4.8.2\\xtensa-lx106-elf",
         "${projectRoot}..\\..\\..\\..\\AppData\\Local\\arduino15\\packages\\esp8266\\tools\\xtensa-lx106-elf-gcc\\2.5.0-4-b40a506\\xtensa-lx106-elf\\include",
