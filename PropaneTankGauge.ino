@@ -8,6 +8,9 @@
 
   Todo:
 
+  - Firmware Update. Normal OTA wont work so add logic to check for firmware update in setup().
+
+
 */
 
 ADC_MODE(ADC_VCC);
