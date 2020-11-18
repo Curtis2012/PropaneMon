@@ -1,4 +1,4 @@
-C:\Users\admin\AppData\Local\Temp\VMBuilds\PropaneTankGauge\esp8266_huzzah\Release\HX711-master\HX711.cpp.o: \
+C:\Users\admin\AppData\Local\Temp\VMBuilds\PropaneTankGauge\esp8266_nodemcuv2\Release\HX711-master\HX711.cpp.o: \
  C:\Users\admin\Documents\Arduino\libraries\HX711-master\src\HX711.cpp \
  C:\Users\admin\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.7.4\cores\esp8266/Arduino.h \
  C:\Users\admin\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.7.4/tools/sdk/libc/xtensa-lx106-elf/include/stdlib.h \
@@ -66,6 +66,6 @@ C:\Users\admin\AppData\Local\Temp\VMBuilds\PropaneTankGauge\esp8266_huzzah\Relea
  C:\Users\admin\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.7.4\cores\esp8266/Stream.h \
  C:\Users\admin\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.7.4\cores\esp8266/md5.h \
  C:\Users\admin\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.7.4\cores\esp8266/debug.h \
- C:\Users\admin\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.7.4\variants\adafruit/pins_arduino.h \
- C:\Users\admin\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.7.4\variants\adafruit/../generic/common.h \
+ C:\Users\admin\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.7.4\variants\nodemcu/pins_arduino.h \
+ C:\Users\admin\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.7.4\variants\nodemcu/../generic/common.h \
  C:\Users\admin\Documents\Arduino\libraries\HX711-master\src\HX711.h

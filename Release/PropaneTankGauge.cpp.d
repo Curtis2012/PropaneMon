@@ -1,5 +1,5 @@
-C:\Users\admin\AppData\Local\Temp\VMBuilds\PropaneTankGauge\esp8266_huzzah\Release\PropaneTankGauge.cpp.o: \
- C:\Users\admin\AppData\Local\Temp\VMBuilds\PropaneTankGauge\esp8266_huzzah\Release\PropaneTankGauge.cpp \
+C:\Users\admin\AppData\Local\Temp\VMBuilds\PropaneTankGauge\esp8266_nodemcuv2\Release\PropaneTankGauge.cpp.o: \
+ C:\Users\admin\AppData\Local\Temp\VMBuilds\PropaneTankGauge\esp8266_nodemcuv2\Release\PropaneTankGauge.cpp \
  C:\Users\admin\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.7.4\cores\esp8266/arduino.h \
  C:\Users\admin\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.7.4/tools/sdk/libc/xtensa-lx106-elf/include/stdlib.h \
  C:\Users\admin\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.7.4/tools/sdk/libc/xtensa-lx106-elf/include/machine/ieeefp.h \
@@ -67,8 +67,8 @@ C:\Users\admin\AppData\Local\Temp\VMBuilds\PropaneTankGauge\esp8266_huzzah\Relea
  C:\Users\admin\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.7.4\cores\esp8266/Stream.h \
  C:\Users\admin\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.7.4\cores\esp8266/md5.h \
  C:\Users\admin\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.7.4\cores\esp8266/debug.h \
- C:\Users\admin\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.7.4\variants\adafruit/pins_arduino.h \
- C:\Users\admin\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.7.4\variants\adafruit/../generic/common.h \
+ C:\Users\admin\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.7.4\variants\nodemcu/pins_arduino.h \
+ C:\Users\admin\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.7.4\variants\nodemcu/../generic/common.h \
  C:\Users\admin\Documents\Arduino\libraries\HX711-master\src/HX711.h \
  C:\Users\admin\Documents\Arduino\libraries\cscNetServices/cscNetServices.h \
  C:\Users\admin\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.7.4\libraries\ESP8266WiFi\src/ESP8266WiFi.h \
@@ -175,6 +175,6 @@ C:\Users\admin\AppData\Local\Temp\VMBuilds\PropaneTankGauge\esp8266_huzzah\Relea
  C:\Users\admin\Documents\Arduino\libraries\Time/TimeLib.h \
  C:\Users\admin\Documents\Arduino\libraries\NTPClient/NTPClient.h \
  C:\Users\admin\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.7.4\libraries\ArduinoOTA/ArduinoOTA.h \
- C:\Users\admin\Documents\Arduino\libraries\PropaneMonLib/propanemon.h \
+ C:\Users\admin\Documents\Arduino\libraries\PropaneMon-BAK/propanemon.h \
  C:\Users\admin\Documents\Arduino\libraries\arduino-timer\src/timer.h \
  C:\Users\admin\Documents\Arduino\libraries\arduino-timer\src/arduino-timer.h
