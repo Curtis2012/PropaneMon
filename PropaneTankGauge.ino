@@ -192,6 +192,5 @@ void loop()
 {
 	msgn = sprintf(msgbuff, "Entering deep sleep for %i seconds", setSleepTime());
 	outputMsg(msgbuff);
-	Serial.print("deep sleep = ");Serial.println(setSleepTime());
 	ESP.deepSleep(setSleepTime() * 1e6);
 }
