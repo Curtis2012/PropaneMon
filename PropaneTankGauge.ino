@@ -181,6 +181,8 @@ void setup()
 
 	scale.begin(DOUT, CLK);
 	scale.set_scale(empericalScaleFactor);
+	
+	mqttClient.loop();
 
 	sendSample();
 	sendSample();  // often the first MQTT message does not go thru after deep sleep...so send 2.

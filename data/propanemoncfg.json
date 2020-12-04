@@ -13,10 +13,10 @@
 		"mqtt_topic_ctrl": "csc/homepa/tankmon_ctrl",
 		"mqtt_uid": "uid",
 		"mqtt_pwd": "pwd",
-		"debug": false,
+		"debug": true,
 		"empericalscalefactor": -23680.00, 
 		"sleeptimeabovefloor": 10800,
-		"sleeptimefloor": 15,
+		"sleeptimefloor": 10,
 		"sleeptimebelowfloor": 1800
 	}
 }
