@@ -8,7 +8,8 @@
 
   Todo:
 
-  - Firmware Update. Normal OTA wont work so add logic to check for firmware update in setup().
+  - Regulator/Hose weight. Add offset for the weight of these connections (in my tank it makes a 4% diff).
+  - Firmware Update. Normal OTA wont work, so add logic to check for firmware update in setup().
   - Config file update. Ditto.
 
 
@@ -30,7 +31,7 @@ StaticJsonDocument<128> sampleDoc;
 float propaneWeight(float grossTankWeight)
 {
 
-	propaneTank25lb.netPropaneWt = propaneTank25lb.scaleWeight - propaneTank25lb.tareKg;
+	propaneTank25lb.netPropaneWt = propaneTank25lb.scaleWeight - (propaneTank25lb.tareKg + propaneTank25lb.regulatorWeight);
 	if (propaneTank25lb.netPropaneWt < 0) propaneTank25lb.netPropaneWt = 0;
 
 	return (propaneTank25lb.netPropaneWt);

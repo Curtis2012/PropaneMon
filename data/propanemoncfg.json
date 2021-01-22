@@ -14,6 +14,8 @@
 		"mqtt_uid": "uid",
 		"mqtt_pwd": "pwd",
 		"debug": true,
+		"deepsleep": true,
+		"regulatorweight": 0.5,
 		"empericalscalefactor": -23680.00, 
 		"sleeptimeabovefloor": 10800,
 		"sleeptimefloor": 10,
